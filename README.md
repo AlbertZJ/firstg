@@ -1,2 +1,1 @@
-# firstg
-firstgo
+第一个Go程序
